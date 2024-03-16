@@ -16,30 +16,16 @@ Collegepond is a website designed to assist students in pursuing their dreams of
 
 ## Technologies Used
 
-- **React**: Frontend development framework for building dynamic user interfaces.
-- **styled-components**: CSS-in-JS library for styling React components with scoped styles.
-- **React Router**: Declarative routing library for navigation within the React application.
-- **Redux**: State management library for managing application state in a predictable manner.
-- **Axios**: Promise-based HTTP client for making asynchronous requests to server endpoints.
+- **HTML**: HyperText Markup Language for structuring the content of web pages.
+- **CSS**: Cascading Style Sheets for styling and layout of web pages.
+- **JavaScript**: Programming language for adding interactivity and dynamic behavior to web pages.
+- **jQuery**: JavaScript library for simplifying DOM manipulation and event handling.
+- **Animate.css**: CSS library for adding animations to HTML elements.
 
 ## Getting Started
 
-To get started with Collegepond locally, follow these steps:
+To get started with Collegepond locally, simply download or clone this repository and open the `index.html` file in your web browser:
 
-1. Clone this repository: `git clone https://github.com/your-username/collegepond.git`
-2. Navigate to the project directory: `cd collegepond`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
-
-## Contributing
-
-Contributions to Collegepond are welcome! If you have suggestions for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request. Please adhere to the project's code of conduct.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries or assistance, please contact us at [contact@collegepond.com](mailto:contact@collegepond.com). Visit our website [www.collegepond.com](https://www.collegepond.com) for more information.
+```bash
+git clone https://github.com/your-username/collegepond.git
+cd collegepond
