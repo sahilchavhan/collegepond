@@ -1,6 +1,6 @@
 # Collegepond
 
-Welcome to Collegepond, your trusted gateway to fulfilling your study abroad aspirations! With us, you are not merely embarking on an education overseas expedition; you are building the foundation for a thriving career, expanding your horizons, and embracing a promising future filled with endless possibilities.
+Welcome to Collegepond, your trusted gateway to fulfilling your study abroad aspirations! With us, you are not merely embarking on an education overseas expedition; you are building the foundation for a thriving career and embracing a promising future filled with endless possibilities.
 
 ## Introduction
 
