@@ -34,5 +34,6 @@ Collegepond is a website designed to assist students in pursuing their dreams of
 To get started with Collegepond locally, simply download or clone this repository and open the `index.html` file in your web browser:
 
 ```bash
-git clone https://github.com/your-username/collegepond.git
+
+git clone https://github.com/sahilchavhan/collegepond.git
 cd collegepond
