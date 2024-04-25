@@ -1,6 +1,5 @@
 ![Screenshot](screenshots/Screenshot-1.png)
 ![Screenshot](screenshots/Screenshot-2.png)
-![Screenshot](screenshots/Screenshot-3.png)
 ![Screenshot](screenshots/Screenshot-4.png)
 ![Screenshot](screenshots/Screenshot-5.png)
 ![Screenshot](screenshots/Screenshot-6.png)
